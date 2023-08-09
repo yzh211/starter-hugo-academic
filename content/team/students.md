@@ -1,7 +1,7 @@
 ## Graduate Students
 <table border="0">
  <tr>
-    <td width=300>
+    <td width=150>
   <img src="/team/sahand.jpg" alt="Sahand"  /> 
 Sahand Khabiri, Fall 2019 to present
     </td>
@@ -14,7 +14,7 @@ Sahand Khabiri (he/his) is currently a PhD candidate studying at Temple Universi
 ## Undergraduate Students
 <table border="0">
  <tr>
-    <td width=300>
+    <td width=150>
   <img src="/team/Alex.png" alt="Alex" /> 
   Alex C Miller, Spring 2023 to present 
     </td>
@@ -26,7 +26,7 @@ Alex is studying for Bachelor of Science in Civil Engineering at Temple now. His
 
 <table border="0">
 <tr>
-<td width= 300>
+<td width=150>
 <img src="/team/Emma.jpg" alt="Emma"/> 
 Emma R Schreiner, Spring 2022 to present 
 </td>
@@ -38,7 +38,7 @@ Emma Schreiner (she/her) is currently an undergraduate student studying civil en
 
 <table border="0">
  <tr>
-    <td width= 300>
+    <td width=150>
 
 <img src="/team/Kate.jpg" alt="Kate"/> 
 Kate Kubiak, Spring 2022 to present 

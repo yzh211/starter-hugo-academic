@@ -6,6 +6,7 @@ tags:
   - Landslides
   - Earthquakes
 date: '2023-08-08'
+weight: 20
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

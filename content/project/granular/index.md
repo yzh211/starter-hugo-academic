@@ -5,13 +5,14 @@ tags:
   - Strain Localization
   - Granular Materials
 date: '2023-08-08'
+weight: 10
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
   caption: 
-  focal_point: 
+  focal_point: smart 
 
 # links:
 #   - icon: twitter

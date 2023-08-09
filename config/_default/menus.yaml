@@ -20,10 +20,10 @@ main:
     url: '/publication'
     weight: 50
   - name: Blog
-    url: '#Blog'
+    url: 'post/'
     weight: 60
   - name: Contact
-    url: '#Contact'
+    url: '/#contact'
     weight: 70
 
 # Link to a PDF of your resume/CV from the menu.

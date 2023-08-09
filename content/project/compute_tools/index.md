@@ -4,6 +4,7 @@ summary: Development of machine learning and remote sensing tools for solving ge
 tags: 
   - Computational Geosciences
 date: '2023-08-08'
+weight: 30
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

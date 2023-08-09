@@ -5,6 +5,7 @@ tags:
   - Uncertainty Quantificaiton
   - Machine Learning
 date: '2023-08-08'
+weight: 40
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

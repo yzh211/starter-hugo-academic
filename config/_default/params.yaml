@@ -68,7 +68,7 @@ features:
       - python
       - latex
       - C++
-    theme_light: github-light
+    # theme_light: github-light
     theme_dark: dracula
   math:
     enable: true
