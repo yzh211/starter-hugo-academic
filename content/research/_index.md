@@ -7,6 +7,8 @@ cms_exclude: true
 #   2 = Compact
 #   3 = Card
 view: 2
+image:
+  placement: 3
 
 # image:
 #   caption: "CGG Mission"

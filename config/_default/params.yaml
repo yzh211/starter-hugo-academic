@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Yichuan Zhu. This website is built using [Hugo](https://gohugo.io/) and [Academic](https://themes.gohugo.io/themes/starter-hugo-academic/) theme'
+    notice: '© {year} Yichuan Zhu All Rights Reserved' 
     license:
       enable: false
       allow_derivatives: false

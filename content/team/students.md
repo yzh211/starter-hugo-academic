@@ -19,7 +19,7 @@ Sahand Khabiri (he/his) is currently a PhD candidate studying at Temple Universi
   Alex C Miller, Spring 2023 to present 
     </td>
     <td width=300>
-Alex is studying for Bachelor of Science in Civil Engineering at Temple now. His hobbies include gaming and exercising. His favorite thing to do is go out in the city with his friends.
+Alex graduated from Susquehannock High School in Glen Rock, PA. He is studying for Bachelor of Science in Civil Engineering at Temple now. His hobbies include gaming and exercising. His favorite thing to do is go out in the city with his friends.
     </td>
  </tr>
 </table>

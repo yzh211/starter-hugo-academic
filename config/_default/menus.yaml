@@ -14,7 +14,7 @@ main:
     url: '/team/students'
     weight: 30
   - name: Research
-    url: '/project'
+    url: '/research'
     weight: 40
   - name: Publications
     url: '/publication'
