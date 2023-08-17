@@ -25,6 +25,18 @@ Alex graduated from Susquehannock High School in Glen Rock, PA. He is studying f
 </table>
 
 <table border="0">
+ <tr>
+    <td width=150>
+  <img src="/team/David.jpeg" alt="David" /> 
+  David Kosiborod, Fall 2023 to present 
+    </td>
+    <td width=300>
+David Kosiborod (ka-see-bar-ode) is pursuing a degree of Bachelor of Science in Civil Engineering after graduating from Bergen Community College with an associate in science. He has artistic experience from teaching art in a small studio back home. In his free time, you can find David drawing, gaming, or playing with his two dogs. 
+    </td>
+ </tr>
+</table>
+
+<table border="0">
 <tr>
 <td width=150>
 <img src="/team/Emma.jpg" alt="Emma"/> 
