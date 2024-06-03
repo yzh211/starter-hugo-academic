@@ -76,3 +76,6 @@ sitemap:
   _merge: deep
 minify:
   _merge: deep
+
+#[[params.customCSS]]
+# href = "/static/uploads/width.css"
